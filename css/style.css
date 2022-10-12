@@ -1,10 +1,9 @@
 .main {
-  width: 70%;
   float: left;
   border: 1px solid black;;
   font-family: Cambria;
   font-size: medium;
-  margin-bottom: 80px;
+
   margin-left: 10px;
 }
 
@@ -12,20 +11,32 @@
   font-family: 'Gill Sans';
   color: chocolate;
   font-style: italic;
-  border: 1px solid black;
+  border: 10px solid black;
   padding: 25px;
-  margin-top: 20px;
+  float: right;
 }
 
 .centered-image {
   margin: auto;
-  width: 50%;
+  width: 70%;
   height: auto;
   display: block;
+  margin-bottom: 20px;
 }
 
 .sidebar {
-  width: 10px%;
+  width: 100%;
   float:right;
   background-color: antiquewhite;
+  margin-bottom: 20px;
+}
+
+.column1 {
+  width: 75%;
+  float:left;
+}
+
+.column2 {
+  width: 25%;
+  float: right;
 }
