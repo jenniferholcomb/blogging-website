@@ -23,7 +23,7 @@
 }
 
 .sidebar {
-  background-color: rgb(251, 241, 228);
+  background-color: #FFF6D3;
   padding: 10px;
   margin-bottom: 20px;
   margin-left: 10px;
@@ -80,7 +80,7 @@ h1 {
 
 .blog-entry {
   width: 100%;
-  background-color: rgb(251, 241, 228);
+  background-color: #FFF6D3;
   padding: 5px;
   margin-bottom: 20px;
 }
