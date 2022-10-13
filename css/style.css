@@ -3,6 +3,7 @@
   border: 1px solid black;;
   font-family: Cambria;
   font-size: medium;
+  padding: 10px;
 }
 
 .aboutme {
@@ -10,18 +11,20 @@
   color: chocolate;
   font-style: italic;
   border: 1px solid black;
+  padding: 10px;
 }
 
 .centered-image {
   margin: auto;
-  width: 70%;
-  margin-bottom: 20px;
+  width: 75%;
+  margin-bottom: 13px;
   display: block;
 }
 
 .sidebar {
   width: 100%;
   background-color: antiquewhite;
+  padding: 10px;
   margin-bottom: 20px;
 }
 
@@ -33,5 +36,42 @@
 .column2 {
   width: 23%;
   float: right;
-  
+}
+
+h1 {
+  margin: auto;
+  font-style: italic;
+  font-family: 'Gill Sans', 'Gill Sans';
+  font-size: 75px;
+  text-align: center;
+  width: 75%;
+  display: block;
+  color: rgb(191, 15, 15);
+  margin-bottom: 10px;
+}
+
+.intro {
+  width: 75%;
+  text-align: justify;
+  margin: auto;
+  display: block;
+  font-size: 20px;
+  font-style: italic;
+  font-family: 'Gill Sans';
+  margin-bottom: 20px;
+}
+
+.highlight {
+  font-style: italic;
+  font-style: oblique;
+  font-family: 'Gill Sans';
+  font-size: 50px;
+  color: rgb(191, 15, 15);
+}
+
+.emphasis {
+  font-style: italic;
+  font-family: 'Gill Sans';
+  font-size: 20px;
+  color: chocolate;
 }
